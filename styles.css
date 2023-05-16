@@ -1,0 +1,15 @@
+html {
+	background-color: #79addc;
+}
+
+.center {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.text {
+	font-family: "Dancing Script", cursive;
+	font-size: 5rem;
+}
